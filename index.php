@@ -1,7 +1,7 @@
 <?php
 
 /***
- * CDN文件浏览
+ * 简易文件浏览程序
  * @方淞 WeChat:wnfangsong E-mail:wnfangsong@163.com
  * @LINK:http://www.xpzfs.com
  * @TIME:2018-03-06
@@ -125,7 +125,8 @@ $file_list = scanFile($path);
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>CDN文件浏览 - 方淞（XPZFS.COM）</title>
+    <title>简易文件浏览程序 - 方淞（XPZFS.COM）</title>
+    <link rel="shortcut icon" href="http://www.xpzfs.com/favicon.ico" />
     <style type="text/css">
         html, body, div, span, ul, li, p {margin: 0; padding: 0; font-size: 100%; vertical-align: baseline; background: transparent;}
         ul, li {list-style: none;}
